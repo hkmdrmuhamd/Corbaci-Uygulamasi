@@ -7,5 +7,3 @@ seçerek bir sonraki aşamaya geçiş yapabiliriz.
 ekstraları belirleyerek siparişimizi verebiliriz.
 
 Siparişimizi verdikten sonra son ekrana geçeriz.Bu ekranda siparişimizin hazırlandığı bilgisi, uygulamadan çıkış yapma veya yeni sipariş verme gibi drumlar bulunmaktadır.
-
-<img src="https://www.hizliresim.com/8gsrnq8.png" alt="alt text" width="320" height="180">
